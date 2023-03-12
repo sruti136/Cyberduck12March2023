@@ -32,12 +32,6 @@ I have used hard coded values in the files but it will be good to use default va
 
 I have created security groups for mysql rds, Asg sg, ssm_https sg, EC2 sg
 
-## Commands
-terraform init
-terraform plan
-terraform apply 
-terraform destroy
-
 ## Research work:
 To do this task first I have launch the infrastructure using GUI in a free tier amazon account and then I have replicated the steps on my terraform file.
 I have used modules repo for creating vpc. I have refered terraform git repo for documentation
