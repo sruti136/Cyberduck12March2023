@@ -1,4 +1,4 @@
-# Cyberduck12032023
+# Cyberduck12023
 AWS infrastructure deploying a VPC, Ec2 instances with ASG, Mysql RDS using terraform
 
 ## Prerequisites:
